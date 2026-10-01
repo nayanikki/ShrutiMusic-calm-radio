@@ -21,12 +21,12 @@ UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/NoxxOP/ShrutiMusi
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotsSupport")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
-YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
-DONATE = os.getenv("DONATE", "https://t.me/ShrutiBots/91")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/chhikuumaa")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/haramkhoro_87")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://t.me/haramkhoro_87")
+YOUTUBE = os.getenv("YOUTUBE", "https://t.me/haramkhoro_87")
+GITHUB = os.getenv("GITHUB", "https://t.me/chhikuumaa")
+DONATE = os.getenv("DONATE", "https://t.me/haramkhoro_87")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 DURATION_LIMIT_MIN = int(os.getenv("DURATION_LIMIT", 300))
@@ -46,15 +46,15 @@ STRING5 = os.getenv("STRING_SESSION5", None)
 
 AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/7q8bfg.jpg")
-PING_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/4cw15b.jpg")
+PING_IMG_URL = "https://files.catbox.moe/4cw15b.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/iv6kdy.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/t5n8d2.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/jnibll.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/8dl2ow.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/4cw15b.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
